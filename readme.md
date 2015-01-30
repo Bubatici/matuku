@@ -12,5 +12,5 @@ Aplikasi ini untuk memenuhi tugas kuliah pemrograman web. Aplikasi PHP sederhana
 3. Ubah `username` dan `password` pada file `konek.php` Sesuikan dengan user database anda
 
 ## User
-- username = *muhardian*
-- password = *kopi*
+- username = **muhardian**
+- password = **kopi**
