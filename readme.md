@@ -8,4 +8,4 @@ Aplikasi ini untuk memenuhi tugas kuliah pemrograman web. Aplikasi PHP sederhana
 
 ## Cara Install
 1. Buat database dengan nama `matuku`
-2. Import database
+2. Import database `matuku.sql`
