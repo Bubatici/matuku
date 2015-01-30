@@ -10,3 +10,7 @@ Aplikasi ini untuk memenuhi tugas kuliah pemrograman web. Aplikasi PHP sederhana
 1. Buat database dengan nama `matuku`
 2. Import database `matuku.sql`
 3. Ubah `username` dan `password` pada file `konek.php` Sesuikan dengan user database anda
+
+## User
+- username = *muhardian*
+- password = *kopi*
