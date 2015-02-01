@@ -16,4 +16,4 @@ Aplikasi ini untuk memenuhi tugas kuliah pemrograman web. Aplikasi PHP sederhana
 - password = **kopi**
 
 ## Catatan
-- [petanikode.blogspot.com/2015/01/proyek-aplikasi-matuku.html](petanikode.blogspot.com/2015/01/proyek-aplikasi-matuku.html)
+- [http://petanikode.blogspot.com/2015/01/proyek-aplikasi-matuku.html](http://petanikode.blogspot.com/2015/01/proyek-aplikasi-matuku.html)
